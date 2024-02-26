@@ -598,6 +598,17 @@
             "hash": "50b38bf7b98eeb64825597cb5426b8a24b1d67ba7e528a06e9c1eb129d87685d"
         },
         {
+            "id": "market",
+            "repo": "https://github.com/lnbits/market",
+            "name": "Marketplace",
+            "version": "0.2.3",
+            "min_lnbits_version": "0.11.0",
+            "short_description": "Webshop/market on LNbits",
+            "icon": "https://github.com/lnbits/market/raw/main/static/images/bitcoin-shop.png",
+            "archive": "https://github.com/lnbits/market/archive/refs/tags/v0.2.3.zip",
+            "hash": "d203089681656585c124752eee50ac72827c0e2b2b5459deb78066bb7518cb56"
+        },
+        {
             "id": "satspay",
             "repo": "https://github.com/lnbits/satspay",
             "name": "SatsPay Server",
